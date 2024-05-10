@@ -35,6 +35,8 @@ Dataset size ~600000
 ## Results
 - **Recommendation Examples**: The system successfully recommends items like "GUMBALL MONOCHROME COAT RACK" based on previous purchases, demonstrating effective use of market basket analysis techniques.
 
+<img src="Market Basket Analysis Results.png" alt="alt text" width="800" height="400"/>
+
 ## Conclusion
 This project illustrates the effective application of NLP and similarity metrics in building a recommendation system based on market basket analysis. The approach enhances the shopping experience by providing tailored recommendations.
 
